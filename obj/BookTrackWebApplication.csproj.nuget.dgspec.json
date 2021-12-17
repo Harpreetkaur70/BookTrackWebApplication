@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\QServices\\Assignments\\BookTrackWebApplication\\BookTrackWebApplication\\BookTrackWebApplication.csproj": {}
+    "D:\\QServices\\Assignments\\Git\\BookTrackWebApplication\\BookTrackWebApplication.csproj": {}
   },
   "projects": {
-    "D:\\QServices\\Assignments\\BookTrackWebApplication\\BookTrackWebApplication\\BookTrackWebApplication.csproj": {
+    "D:\\QServices\\Assignments\\Git\\BookTrackWebApplication\\BookTrackWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QServices\\Assignments\\BookTrackWebApplication\\BookTrackWebApplication\\BookTrackWebApplication.csproj",
+        "projectUniqueName": "D:\\QServices\\Assignments\\Git\\BookTrackWebApplication\\BookTrackWebApplication.csproj",
         "projectName": "BookTrackWebApplication",
-        "projectPath": "D:\\QServices\\Assignments\\BookTrackWebApplication\\BookTrackWebApplication\\BookTrackWebApplication.csproj",
+        "projectPath": "D:\\QServices\\Assignments\\Git\\BookTrackWebApplication\\BookTrackWebApplication.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "D:\\QServices\\Assignments\\BookTrackWebApplication\\BookTrackWebApplication\\obj\\",
+        "outputPath": "D:\\QServices\\Assignments\\Git\\BookTrackWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",

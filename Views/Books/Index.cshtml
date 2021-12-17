@@ -40,7 +40,7 @@
                 @Html.DisplayFor(modelItem => item.Author)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.category.CategoryId)
+                @Html.DisplayFor(modelItem => item.category.NameToken)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.BookID">Edit</a> |
